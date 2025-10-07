@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "259552928542",
+    "firebase_url": "https://ihostel-ty-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ihostel-ty",
+    "storage_bucket": "ihostel-ty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259552928542:android:1728ed1f9675c979b35f0f",
+        "android_client_info": {
+          "package_name": "com.ihostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259552928542-k1ku8j3nq1230mjfcf9a6m7017crmmtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihostel",
+            "certificate_hash": "9679fd97d0b78e4aa2cc84c9a7132d05df164bca"
+          }
+        },
+        {
+          "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeSJg8JrZrPk5m2hnIY1x4aNAYNVbYHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259552928542-8r66ohren4hi1c5j0f0mfvedmuiqhfhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihostel.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259552928542:android:5a369fc831acc395b35f0f",
+        "android_client_info": {
+          "package_name": "com.ihostel.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259552928542-1m5o9rruohn6n7aluovdp4nvt4t68ee6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihostel.dev",
+            "certificate_hash": "9679fd97d0b78e4aa2cc84c9a7132d05df164bca"
+          }
+        },
+        {
+          "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeSJg8JrZrPk5m2hnIY1x4aNAYNVbYHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259552928542-8r66ohren4hi1c5j0f0mfvedmuiqhfhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihostel.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259552928542:android:1025374acb89e58ab35f0f",
+        "android_client_info": {
+          "package_name": "com.ihostel.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259552928542-bb6v54qtejrr6r1hp2pqr6kmld9ha8g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihostel.stg",
+            "certificate_hash": "9679fd97d0b78e4aa2cc84c9a7132d05df164bca"
+          }
+        },
+        {
+          "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeSJg8JrZrPk5m2hnIY1x4aNAYNVbYHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259552928542-4bp2ho49fkgpnb6efrfu5eutog4pg8h2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259552928542-8r66ohren4hi1c5j0f0mfvedmuiqhfhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihostel.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
